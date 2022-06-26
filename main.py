@@ -4,7 +4,7 @@ from discord.ext import commands
 class MyBot(commands.Bot):
     def __init__(self):
         super().__init__(
-            command_prefix = "-",
+            command_prefix = "-", #change bot prefix
             intents = discord.Intents.all(),
             application_id = 123) #replace 123 with your bot id
 
