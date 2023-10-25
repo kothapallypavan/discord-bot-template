@@ -3,9 +3,10 @@ NOTE : please install discord.py version < 2.0 </br>
 discord.py v2.0 template</br> 
 steps:</br>
 1.install python3 and pip</br>
-2.install latest version of discord.py using pip</br>
-```pip install -U git+https://github.com/Rapptz/discord.py```<br>
-3.run main.py</br>
+2.install 2.0.0 version of discord.py using pip</br>
+```pip install discord.py==2.0.0```<br>
+3.Read comments and add your credentials
+4.run main.py</br>
 </br>
 Any help?</br>
 Discord : ```Ghostkiller#4676```
