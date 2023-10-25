@@ -1,5 +1,5 @@
 # discord-bot-template
-NOTE : please install discord.py version < 2.0
+NOTE : please install discord.py version < 2.0 </br> 
 discord.py v2.0 template</br> 
 steps:</br>
 1.install python3 and pip</br>
